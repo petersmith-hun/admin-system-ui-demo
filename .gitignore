@@ -8,8 +8,6 @@
 *.jar
 *.csv
 *.mwb.bak
-deploy.bat
-test-deploy.bat
-coverage.bat
-test-deploy.bat
 .springBeans
+.metadata
+/WebContent/
